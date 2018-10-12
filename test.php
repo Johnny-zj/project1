@@ -4,7 +4,7 @@
 <html>
     <head>
         <title>
-            wea
+            web
         </title>
     </head>
     <body>
